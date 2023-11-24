@@ -25,3 +25,8 @@ Minha trajetória não se limita apenas ao desenvolvimento de software. Possuo h
   <a href="#" title="Notion"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="#" title="Trello"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
 </p>
+
+<p align="left">
+  <a href="#" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+  <a href="#" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>
+</p>
