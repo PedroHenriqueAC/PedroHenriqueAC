@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://voltis.io/images/heroVoltis.svg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 Olá!
@@ -27,6 +27,6 @@ Minha trajetória não se limita apenas ao desenvolvimento de software. Possuo h
 </p>
 
 <p align="left">
-  <a href="#" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
-  <a href="#" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>
+  <a href="#" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" max-width="150px" width="150px"/></a>
+  <a href="#" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" max-width="150px" width="150px"/></a>
 </p>
