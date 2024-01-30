@@ -11,11 +11,11 @@ Minha trajetória não se limita apenas ao desenvolvimento de software. Possuo h
 </p>
 
 <p align="left">
-  👨🏻‍💻 Principal linguagem de programação: Python
+  👨🏻‍💻 Principais linguagem de programação: Python, SQL
 </p>
 
 <p align="left">
-  💼 Principais tecnologias: AWS, Serverless, API, Scrap/Crawler, RPA, ETL
+  💼 Principais tecnologias: AWS, Serverless, API, ETL, Scrap/Crawler, RPA
 </p>
 
 <p align="left">
